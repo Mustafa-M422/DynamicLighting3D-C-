@@ -53,3 +53,9 @@ M - Change light color
    cd /c/Users/mosta/Desktop/COMP371-FinalProject
    assignment2.cpp -o assignment2.exe -Iinclude -Llib -lglfw3 -lglew32 -lopengl32
    ./assignment2.exe
+
+---
+
+
+
+
